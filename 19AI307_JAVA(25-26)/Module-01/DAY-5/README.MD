@@ -18,8 +18,8 @@ To reverse a user-given string using a simple character-by-character loop.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: Kesav Deepak Sridharan
+RegisterNumber: 212223230104
 */
 ```
 
@@ -53,3 +53,4 @@ public class A
 
 ## RESULT:
 Therefore, the program takes the input string, reverses it using a backward loop, and displays the reversed output correctly.
+
