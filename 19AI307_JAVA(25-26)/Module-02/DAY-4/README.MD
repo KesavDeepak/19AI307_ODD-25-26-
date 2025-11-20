@@ -17,8 +17,8 @@ To initialize object data using a constructor and display it using toString.
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: Kesav Deepak Sridharan
+RegisterNumber: 212223230104
 */
 ```
 
@@ -62,3 +62,4 @@ public class demo
 
 ## RESULT:
 Therefore, the program initializes the object through its constructor and prints the formatted student details using the overridden toString method.
+
