@@ -18,8 +18,8 @@ To count how many even and odd numbers are present in an array.
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: Kesav Deepak Sridharan
+RegisterNumber: 212223230104
 */
 ```
 
@@ -60,3 +60,4 @@ public class demo
 
 ## RESULT:
 Therefore, the program reads the array values, checks each element, and accurately prints how many numbers are even and how many are odd.
+
