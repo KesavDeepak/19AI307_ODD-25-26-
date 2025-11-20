@@ -18,8 +18,8 @@ To manage smartphone details using getters, setters, and a storage update method
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: Krithick Vivekananda 
-RegisterNumber: 212223240075
+Developed by: Kesav Deepak Sridharan
+RegisterNumber: 212223230104
 */
 ```
 
@@ -103,3 +103,4 @@ class prog {
 
 ## RESULT:
 Therefore, the program stores smartphone details, updates the storage value, and displays the final information using proper encapsulation.
+
